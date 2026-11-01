@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         VENV_DIR   = 'venv'
-        DEPLOY_DIR = 'D:\\6952D10008\\jenkin-project\\pygit10008'
+        DEPLOY_DIR = 'D:\\dev\\project'
     }
 
     options {
